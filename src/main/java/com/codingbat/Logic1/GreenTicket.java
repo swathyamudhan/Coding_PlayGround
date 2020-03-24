@@ -1,4 +1,4 @@
-package main.java.com.codingbat.Logic1;
+package com.codingbat.Logic1;
 
 public class GreenTicket {
   public int greenTicket(int a, int b, int c) {

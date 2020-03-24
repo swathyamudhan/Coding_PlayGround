@@ -1,4 +1,4 @@
-// package com.codingbat.Logic1;
+ package com.codingbat.Logic1;
 
 public class CigarParty {
   public boolean cigarParty(int cigars, boolean isWeekend) {

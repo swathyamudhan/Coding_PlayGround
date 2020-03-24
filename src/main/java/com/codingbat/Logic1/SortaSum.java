@@ -1,4 +1,4 @@
-package main.java.com.codingbat.Logic1;
+package com.codingbat.Logic1;
 
 public class SortaSum {
   public int sortaSum(int a, int b) {

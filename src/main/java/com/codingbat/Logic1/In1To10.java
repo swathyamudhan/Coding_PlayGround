@@ -1,4 +1,4 @@
-package main.java.com.codingbat.Logic1;
+package com.codingbat.Logic1;
 
 public class In1To10 {
   public boolean in1To10(int n, boolean outsideMode) {

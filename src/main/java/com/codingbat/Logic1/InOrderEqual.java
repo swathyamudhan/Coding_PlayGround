@@ -1,4 +1,4 @@
-package main.java.com.codingbat.Logic1;
+package com.codingbat.Logic1;
 
 public class InOrderEqual {
   public boolean inOrderEqual(int a, int b, int c, boolean equalOk) {

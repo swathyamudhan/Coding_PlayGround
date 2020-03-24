@@ -1,4 +1,4 @@
-package main.java.com.codingbat.Logic1;
+package com.codingbat.Logic1;
 
 public class AlarmClock {
   public String alarmClock(int day, boolean vacation) {

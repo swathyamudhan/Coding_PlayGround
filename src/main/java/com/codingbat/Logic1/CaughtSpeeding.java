@@ -1,4 +1,4 @@
-package main.java.com.codingbat.Logic1;
+package com.codingbat.Logic1;
 
 public class CaughtSpeeding {
   public int caughtSpeeding(int speed, boolean isBirthday) {

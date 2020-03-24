@@ -1,4 +1,4 @@
-package main.java.com.codingbat.Logic1;
+package com.codingbat.Logic1;
 
 public class SumLimit {
   public int sumLimit(int a, int b) {

@@ -1,4 +1,4 @@
-package main.java.com.codingbat.Logic1;
+package com.codingbat.Logic1;
 
 public class SquirrelPlay {
   public boolean squirrelPlay(int temp, boolean isSummer) {

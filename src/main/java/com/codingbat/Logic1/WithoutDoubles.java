@@ -1,4 +1,4 @@
-package main.java.com.codingbat.Logic1;
+package com.codingbat.Logic1;
 
 public class WithoutDoubles {
   public int withoutDoubles(int die1, int die2, boolean noDoubles) {

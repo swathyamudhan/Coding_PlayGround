@@ -1,4 +1,4 @@
-package main.java.com.codingbat.Logic1;
+package com.codingbat.Logic1;
 
 public class SpecialEleven {
   public boolean specialEleven(int n) {
