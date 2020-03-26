@@ -2,7 +2,13 @@ package com.codingbat.array2;
 
 public class CountEvens {
 	public int countEvens(int[] nums) {
-		return 0;
+		int count = 0;
+		for (int i = 0; i < nums.length; i++) {
+			if (nums[i] % 2 == 0) {
+				count++;
+			}
+		}
+		return count;
 	}
 
 }
